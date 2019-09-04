@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import './App.css';
 
@@ -34,7 +33,7 @@ function App() {
             </form>
           </div>
         </div>
-    </div>
+      </div>
   );
 }
 
